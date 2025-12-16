@@ -342,7 +342,7 @@ g++ Dictionary.cpp Grid.cpp Trie.cpp main.cpp -o Crossword
 
 **Project**: Crossword Puzzle Generator  
 **Language**: C++  
-**Course**: Data Structures 
+**Course**: Data Structures                                              
 **Developers**: M Uzair Usman & Husnain Shahid
 
 ---
