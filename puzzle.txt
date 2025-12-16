@@ -1,0 +1,118 @@
+=========== CROSSWORD PUZZLE ===========
+
+Grid (12x12):
+t e a m _ c a r _ t _ m 
+_ _ _ _ h _ _ _ _ o _ o 
+w _ s _ o _ r _ _ w _ o 
+a _ u _ u _ i _ _ n _ n 
+t _ n _ s _ c _ o _ d _ 
+e _ _ _ e _ e _ r _ o _ 
+r _ p _ _ b _ _ a _ g _ 
+_ _ a _ _ e _ _ n _ _ c 
+_ _ p _ _ d _ _ g _ _ l 
+_ _ e _ _ _ _ _ e _ _ o 
+_ _ r _ _ _ _ _ _ _ _ c 
+_ _ _ b r i d g e _ _ k 
+
+=========== WORD LIST ===========
+1. cat
+2. dog
+3. sun
+4. moon
+5. star
+6. sky
+7. tree
+8. leaf
+9. flower
+10. grass
+11. book
+12. pen
+13. paper
+14. note
+15. read
+16. write
+17. school
+18. teacher
+19. student
+20. class
+21. car
+22. bus
+23. train
+24. road
+25. bridge
+26. city
+27. town
+28. village
+29. map
+30. travel
+31. food
+32. water
+33. milk
+34. bread
+35. rice
+36. fruit
+37. sugar
+38. salt
+39. tea
+40. coffee
+41. house
+42. home
+43. room
+44. door
+45. window
+46. table
+47. chair
+48. bed
+49. light
+50. fan
+51. phone
+52. computer
+53. mouse
+54. keyboard
+55. screen
+56. internet
+57. email
+58. code
+59. data
+60. file
+61. happy
+62. sad
+63. angry
+64. smile
+65. laugh
+66. love
+67. peace
+68. hope
+69. dream
+70. think
+71. day
+72. night
+73. week
+74. month
+75. year
+76. time
+77. clock
+78. watch
+79. alarm
+80. date
+81. game
+82. play
+83. win
+84. lose
+85. score
+86. team
+87. match
+88. sport
+89. ball
+90. goal
+91. color
+92. blue
+93. green
+94. black
+95. white
+96. brown
+97. pink
+98. orange
+99. yellow
+
+Generated using Crossword Generator Project
